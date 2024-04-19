@@ -1,7 +1,7 @@
-## Script de Gerenciamento de Policiais no Google Sheets
+## Script de Gerenciamento de Pessoas no Google Sheets
 
 <div align="center">
-    <img src="https://github.com/alexandrefreitass/pesquisa-sheets/assets/109884524/ec0a6059-f79f-4916-9f69-883c35e37a77" />
+    <img src="https://github.com/alexandrefreitass/salvar-googlesheets/assets/109884524/282d50eb-9a94-463d-8dc3-3b778e1a669d" />
 </div>
 
 Este script foi desenvolvido para facilitar a gestão de registros de policiais em uma planilha do Google Sheets. Ele permite salvar um novo registro de policial verificando se já existe um registro similar para evitar duplicações. Além disso, o script foi projetado para ser facilmente adaptável a outras planilhas, possibilitando a duplicação do processo de salvamento em diferentes contextos.
